@@ -1,0 +1,157 @@
+/* font-family: 'Poppins', sans-serif; */
+
+
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+    background:  url(../img/img/principal.png) no-repeat;
+    background-size: cover;
+    height: 0.5vh;
+    min-height: 600px;
+    color: white;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+
+
+.hero1 {
+   
+    background:  url(../img/img/reserva.png) no-repeat;
+    background-size: cover;
+    height: 0.5vh;
+    min-height: 200px;
+    color: white;
+  
+   
+}
+
+/*
+   
+    filter: blur(2px) contrast(117%);
+le quise poner este filtro para que desenfoque y se vean mejor la tipografia y el boton pero no pude, me desenfoca todo*/
+
+
+.hero3{
+    background: url(../img/img/menu.png)no-repeat;
+    background-size: cover;
+    height: 0.5vh;
+    min-height: 600px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* Review*/
+
+.review h1 {
+    
+font-size: 50px;
+ font-family: 'Poppins', sans-serif;
+ 
+}
+.card-deck{
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-body h5{
+    color: tomato;
+}
+/*fin de la Review*/
+
+
+
+/*menu*/
+
+.lista-menu{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.lista-menu li{
+    margin: 4px 0;
+}
+
+.lista-menu li a {
+    background-color: #fff;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #a0a0a0;
+    transition: all .2s ease-in-out;
+    display: block;
+}
+
+.lista-menu li a:hover {
+    color: #212529;
+    background-color: #dadada;
+}
+
+.lista-menu li a img {
+    width: 200px;
+    height: 150px;
+    /* filter: grayscale(); */
+    transition: all .2s ease-in-out;
+    opacity: 0.7;
+}
+
+.lista-menu li a:hover img {
+    filter: none;
+    margin-right:  1.4rem;
+    opacity: 1;
+}
+.fondo{/*la foto quedo muy grande y no se llega a ver bien*/
+    background: url(../img/img/menufondo.jpeg) no-repeat;
+    
+background-size: cover; 
+}
+.fondo h1{
+    color: white;
+}
+/* fin nov */
+
+/*inicio testimonios*/
+
+.testimonios{
+    background-color: #dadada;
+    padding-bottom: 4rem !important;
+
+    
+}
+
+.testimonio{
+    text-align: center;
+    padding: 50px 20px;
+}
+
+/* fin menu*/
+
+
+
+
+
+
+
+
+    
+ 
+
+
+
+
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+
+
+
+

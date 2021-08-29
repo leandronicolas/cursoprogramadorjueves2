@@ -6,7 +6,7 @@ footer{
 }
 
 h1, h2{
-    font-family: 'Alfa Slab One , cursive';
+    font-family: 'Alfa Slab One', cursive;
 }
 
 .hero{
@@ -74,3 +74,11 @@ h1, h2{
 }
 
 /* fin testimonios*/
+
+/*inicio staff*/
+
+.staff{
+    background-color: #efefef;
+}
+/*fin  staff*/
+
